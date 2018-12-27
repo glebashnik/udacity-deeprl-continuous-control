@@ -1,0 +1,134 @@
+INFO:unityagents:
+'Academy' started successfully!
+Unity Academy name: Academy
+        Number of Brains: 1
+        Number of External Brains : 1
+        Lesson number : 0
+        Reset Parameters :
+		goal_speed -> 1.0
+		goal_size -> 5.0
+Unity brain name: ReacherBrain
+        Number of Visual Observations (per agent): 0
+        Vector Observation space type: continuous
+        Vector Observation space size (per agent): 33
+        Number of stacked Vector Observation: 1
+        Vector Action space type: continuous
+        Vector Action space size (per agent): 4
+        Vector Action descriptions: , , ,
+Episode 1	Average Score: 0.51	Score: 0.51
+Episode 2	Average Score: 0.43	Score: 0.35
+Episode 3	Average Score: 0.58	Score: 0.87
+Episode 4	Average Score: 0.49	Score: 0.25
+Episode 5	Average Score: 0.64	Score: 1.20
+Episode 6	Average Score: 0.57	Score: 0.22
+Episode 7	Average Score: 0.54	Score: 0.35
+Episode 8	Average Score: 0.56	Score: 0.70
+Episode 9	Average Score: 0.59	Score: 0.90
+Episode 10	Average Score: 0.73	Score: 1.96
+Episode 11	Average Score: 0.71	Score: 0.46
+Episode 12	Average Score: 0.80	Score: 1.89
+Episode 13	Average Score: 0.92	Score: 2.24
+Episode 14	Average Score: 0.97	Score: 1.66
+Episode 15	Average Score: 1.01	Score: 1.63
+Episode 16	Average Score: 1.17	Score: 3.56
+Episode 17	Average Score: 1.47	Score: 6.19
+Episode 18	Average Score: 1.54	Score: 2.82
+Episode 19	Average Score: 1.55	Score: 1.78
+Episode 20	Average Score: 1.81	Score: 6.66
+Episode 21	Average Score: 1.98	Score: 5.33
+Episode 22	Average Score: 2.01	Score: 2.59
+Episode 23	Average Score: 2.04	Score: 2.80
+Episode 24	Average Score: 2.30	Score: 8.27
+Episode 25	Average Score: 2.42	Score: 5.22
+Episode 26	Average Score: 2.47	Score: 3.80
+Episode 27	Average Score: 2.84	Score: 12.42
+Episode 28	Average Score: 3.45	Score: 19.89
+Episode 29	Average Score: 4.16	Score: 24.10
+Episode 30	Average Score: 4.42	Score: 11.90
+Episode 31	Average Score: 4.68	Score: 12.70
+Episode 32	Average Score: 5.34	Score: 25.82
+Episode 33	Average Score: 5.57	Score: 12.65
+Episode 34	Average Score: 5.85	Score: 15.20
+Episode 35	Average Score: 6.49	Score: 28.18
+Episode 36	Average Score: 6.77	Score: 16.77
+Episode 37	Average Score: 7.50	Score: 33.63
+Episode 38	Average Score: 7.87	Score: 21.61
+Episode 39	Average Score: 8.42	Score: 29.41
+Episode 40	Average Score: 9.04	Score: 33.31
+Episode 41	Average Score: 9.51	Score: 28.22
+Episode 42	Average Score: 10.17	Score: 37.20
+Episode 43	Average Score: 10.70	Score: 33.05
+Episode 44	Average Score: 11.07	Score: 26.84
+Episode 45	Average Score: 11.53	Score: 31.80
+Episode 46	Average Score: 12.14	Score: 39.44
+Episode 47	Average Score: 12.72	Score: 39.61
+Episode 48	Average Score: 13.26	Score: 38.58
+Episode 49	Average Score: 13.59	Score: 29.37
+Episode 50	Average Score: 14.08	Score: 37.96
+Episode 51	Average Score: 14.53	Score: 37.03
+Episode 52	Average Score: 15.00	Score: 38.93
+Episode 53	Average Score: 15.46	Score: 39.29
+Episode 54	Average Score: 15.89	Score: 38.88
+Episode 55	Average Score: 16.30	Score: 38.36
+Episode 56	Average Score: 16.71	Score: 39.18
+Episode 57	Average Score: 17.11	Score: 39.56
+Episode 58	Average Score: 17.43	Score: 35.88
+Episode 59	Average Score: 17.80	Score: 39.30
+Episode 60	Average Score: 17.91	Score: 24.36
+Episode 61	Average Score: 18.26	Score: 39.21
+Episode 62	Average Score: 18.60	Score: 39.18
+Episode 63	Average Score: 18.93	Score: 39.27
+Episode 64	Average Score: 19.24	Score: 39.07
+Episode 65	Average Score: 19.54	Score: 38.81
+Episode 66	Average Score: 19.84	Score: 39.48
+Episode 67	Average Score: 20.12	Score: 38.21
+Episode 68	Average Score: 20.38	Score: 37.99
+Episode 69	Average Score: 20.65	Score: 38.73
+Episode 70	Average Score: 20.91	Score: 39.26
+Episode 71	Average Score: 21.17	Score: 38.88
+Episode 72	Average Score: 21.41	Score: 38.79
+Episode 73	Average Score: 21.65	Score: 38.61
+Episode 74	Average Score: 21.81	Score: 33.77
+Episode 75	Average Score: 22.00	Score: 36.26
+Episode 76	Average Score: 22.22	Score: 38.26
+Episode 77	Average Score: 22.43	Score: 38.76
+Episode 78	Average Score: 22.64	Score: 38.90
+Episode 79	Average Score: 22.84	Score: 38.66
+Episode 80	Average Score: 22.99	Score: 34.72
+Episode 81	Average Score: 23.11	Score: 32.46
+Episode 82	Average Score: 23.27	Score: 35.92
+Episode 83	Average Score: 23.45	Score: 38.57
+Episode 84	Average Score: 23.64	Score: 39.29
+Episode 85	Average Score: 23.76	Score: 33.65
+Episode 86	Average Score: 23.93	Score: 38.33
+Episode 87	Average Score: 24.06	Score: 35.60
+Episode 88	Average Score: 24.13	Score: 30.15
+Episode 89	Average Score: 24.27	Score: 36.31
+Episode 90	Average Score: 24.37	Score: 33.55
+Episode 91	Average Score: 24.50	Score: 36.07
+Episode 92	Average Score: 24.65	Score: 38.49
+Episode 93	Average Score: 24.68	Score: 27.03
+Episode 94	Average Score: 24.77	Score: 33.69
+Episode 95	Average Score: 24.87	Score: 34.04
+Episode 96	Average Score: 24.69	Score: 8.02
+Episode 97	Average Score: 24.68	Score: 23.70
+Episode 98	Average Score: 24.78	Score: 34.04
+Episode 99	Average Score: 24.82	Score: 28.87
+Episode 100	Average Score: 24.89	Score: 32.17
+Episode 101	Average Score: 25.18	Score: 29.04
+Episode 102	Average Score: 25.52	Score: 34.02
+Episode 103	Average Score: 25.79	Score: 28.34
+Episode 104	Average Score: 26.08	Score: 29.40
+Episode 105	Average Score: 26.31	Score: 24.46
+Episode 106	Average Score: 26.58	Score: 27.00
+Episode 107	Average Score: 26.94	Score: 36.47
+Episode 108	Average Score: 27.29	Score: 35.06
+Episode 109	Average Score: 27.55	Score: 27.49
+Episode 110	Average Score: 27.73	Score: 19.30
+Episode 111	Average Score: 28.07	Score: 35.08
+Episode 112	Average Score: 28.37	Score: 32.06
+Episode 113	Average Score: 28.70	Score: 34.40
+Episode 114	Average Score: 29.06	Score: 37.76
+Episode 115	Average Score: 29.41	Score: 36.82
+Episode 116	Average Score: 29.75	Score: 37.63
+Episode 117	Average Score: 30.08	Score: 39.12
